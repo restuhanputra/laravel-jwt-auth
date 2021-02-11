@@ -13,7 +13,7 @@ Simple Laravel JWT AUTH. build with Laravel 8, PHP 8, and MariaDB.
 
 ## Routes API
 
-Route prefix is `auth`
+Route prefix is `auth`, for detail check at `routes/api.php`
 
 | Method  | Endpoint               |
 |---------|------------------------|
