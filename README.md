@@ -34,10 +34,10 @@ git clone https://github.com/reptr/laravel-jwt-auth /direktori project(htdoc)
 2. Create database 
 
 3. *Edit* .env
-```
-DB_DATABASE= *fill database*
-DB_USERNAME= *fill username*
-DB_PASSWORD= *fill password*
+```env
+DB_DATABASE= (fill database)
+DB_USERNAME= (fill username)
+DB_PASSWORD= (fill password)
 ```
 
 4. *Composer Install*
